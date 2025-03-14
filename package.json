@@ -1,0 +1,20 @@
+{
+  "name": "flowlib",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^5.0.3",
+    "code-inspector-plugin": "^0.20.3",
+    "svelte": "^5.20.2",
+    "vite": "^6.2.0"
+  },
+  "dependencies": {
+    "remixicon": "^4.6.0"
+  }
+}
